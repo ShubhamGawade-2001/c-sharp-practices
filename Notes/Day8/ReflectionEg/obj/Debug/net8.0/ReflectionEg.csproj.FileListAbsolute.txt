@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day8\ReflectionEg\bin\Debug\net8.0\ReflectionEg.exe
+D:\Trainings\ActsJan25\Day8\ReflectionEg\bin\Debug\net8.0\ReflectionEg.deps.json
+D:\Trainings\ActsJan25\Day8\ReflectionEg\bin\Debug\net8.0\ReflectionEg.runtimeconfig.json
+D:\Trainings\ActsJan25\Day8\ReflectionEg\bin\Debug\net8.0\ReflectionEg.dll
+D:\Trainings\ActsJan25\Day8\ReflectionEg\bin\Debug\net8.0\ReflectionEg.pdb
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.dll
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\refint\ReflectionEg.dll
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.pdb
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ReflectionEg.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day8\ReflectionEg\obj\Debug\net8.0\ref\ReflectionEg.dll

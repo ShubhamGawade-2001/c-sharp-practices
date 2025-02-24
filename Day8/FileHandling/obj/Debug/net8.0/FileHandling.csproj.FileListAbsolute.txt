@@ -1,0 +1,14 @@
+F:\DOT NET\Day8\FileHandling\bin\Debug\net8.0\FileHandling.exe
+F:\DOT NET\Day8\FileHandling\bin\Debug\net8.0\FileHandling.deps.json
+F:\DOT NET\Day8\FileHandling\bin\Debug\net8.0\FileHandling.runtimeconfig.json
+F:\DOT NET\Day8\FileHandling\bin\Debug\net8.0\FileHandling.dll
+F:\DOT NET\Day8\FileHandling\bin\Debug\net8.0\FileHandling.pdb
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfoInputs.cache
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.AssemblyInfo.cs
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.csproj.CoreCompileInputs.cache
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.dll
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\refint\FileHandling.dll
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.pdb
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\FileHandling.genruntimeconfig.cache
+F:\DOT NET\Day8\FileHandling\obj\Debug\net8.0\ref\FileHandling.dll

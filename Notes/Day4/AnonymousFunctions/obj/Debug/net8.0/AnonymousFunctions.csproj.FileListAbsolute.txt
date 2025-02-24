@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\bin\Debug\net8.0\AnonymousFunctions.exe
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\bin\Debug\net8.0\AnonymousFunctions.deps.json
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\bin\Debug\net8.0\AnonymousFunctions.runtimeconfig.json
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\bin\Debug\net8.0\AnonymousFunctions.dll
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\bin\Debug\net8.0\AnonymousFunctions.pdb
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.dll
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\refint\AnonymousFunctions.dll
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.pdb
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\AnonymousFunctions.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day4\AnonymousFunctions\obj\Debug\net8.0\ref\AnonymousFunctions.dll

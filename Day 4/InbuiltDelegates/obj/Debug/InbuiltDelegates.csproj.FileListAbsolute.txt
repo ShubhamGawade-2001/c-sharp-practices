@@ -1,0 +1,7 @@
+F:\DOT NET\Day 4\InbuiltDelegates\bin\Debug\InbuiltDelegates.exe.config
+F:\DOT NET\Day 4\InbuiltDelegates\bin\Debug\InbuiltDelegates.exe
+F:\DOT NET\Day 4\InbuiltDelegates\bin\Debug\InbuiltDelegates.pdb
+F:\DOT NET\Day 4\InbuiltDelegates\obj\Debug\InbuiltDelegates.csproj.AssemblyReference.cache
+F:\DOT NET\Day 4\InbuiltDelegates\obj\Debug\InbuiltDelegates.csproj.CoreCompileInputs.cache
+F:\DOT NET\Day 4\InbuiltDelegates\obj\Debug\InbuiltDelegates.exe
+F:\DOT NET\Day 4\InbuiltDelegates\obj\Debug\InbuiltDelegates.pdb

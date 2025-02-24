@@ -1,0 +1,7 @@
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\bin\Debug\AsyncCodeWithDelegates_FrameworkOnly.exe.config
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\bin\Debug\AsyncCodeWithDelegates_FrameworkOnly.exe
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\bin\Debug\AsyncCodeWithDelegates_FrameworkOnly.pdb
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\obj\Debug\AsyncCodeWithDelegates_FrameworkOnly.csproj.AssemblyReference.cache
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\obj\Debug\AsyncCodeWithDelegates_FrameworkOnly.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\obj\Debug\AsyncCodeWithDelegates_FrameworkOnly.exe
+D:\Trainings\ActsJan25\Day7\AsyncCodeWithDelegates_FrameworkOnly\obj\Debug\AsyncCodeWithDelegates_FrameworkOnly.pdb

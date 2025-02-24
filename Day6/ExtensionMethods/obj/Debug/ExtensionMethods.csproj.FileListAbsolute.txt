@@ -1,0 +1,7 @@
+F:\DOT NET\Day6\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+F:\DOT NET\Day6\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+F:\DOT NET\Day6\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+F:\DOT NET\Day6\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+F:\DOT NET\Day6\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\DOT NET\Day6\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+F:\DOT NET\Day6\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

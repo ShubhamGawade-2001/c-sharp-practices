@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\bin\Debug\net8.0\ThreadingExamples.exe
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\bin\Debug\net8.0\ThreadingExamples.deps.json
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\bin\Debug\net8.0\ThreadingExamples.runtimeconfig.json
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\bin\Debug\net8.0\ThreadingExamples.dll
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\bin\Debug\net8.0\ThreadingExamples.pdb
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.dll
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\refint\ThreadingExamples.dll
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.pdb
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ThreadingExamples.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day6\ThreadingExamples\obj\Debug\net8.0\ref\ThreadingExamples.dll

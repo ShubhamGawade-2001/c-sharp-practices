@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day5\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll

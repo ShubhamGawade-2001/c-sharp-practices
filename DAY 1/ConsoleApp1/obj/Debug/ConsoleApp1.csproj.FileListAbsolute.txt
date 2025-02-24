@@ -1,0 +1,7 @@
+F:\DOT NET\DAY 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\DOT NET\DAY 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\DOT NET\DAY 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\DOT NET\DAY 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\DOT NET\DAY 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\DOT NET\DAY 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\DOT NET\DAY 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

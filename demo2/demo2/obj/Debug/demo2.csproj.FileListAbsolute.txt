@@ -1,0 +1,7 @@
+F:\DOT NET\demo2\demo2\bin\Debug\demo2.exe.config
+F:\DOT NET\demo2\demo2\bin\Debug\demo2.exe
+F:\DOT NET\demo2\demo2\bin\Debug\demo2.pdb
+F:\DOT NET\demo2\demo2\obj\Debug\demo2.csproj.AssemblyReference.cache
+F:\DOT NET\demo2\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+F:\DOT NET\demo2\demo2\obj\Debug\demo2.exe
+F:\DOT NET\demo2\demo2\obj\Debug\demo2.pdb

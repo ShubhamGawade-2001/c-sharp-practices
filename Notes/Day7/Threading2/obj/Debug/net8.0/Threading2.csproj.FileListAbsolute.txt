@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day7\Threading2\bin\Debug\net8.0\Threading2.exe
+D:\Trainings\ActsJan25\Day7\Threading2\bin\Debug\net8.0\Threading2.deps.json
+D:\Trainings\ActsJan25\Day7\Threading2\bin\Debug\net8.0\Threading2.runtimeconfig.json
+D:\Trainings\ActsJan25\Day7\Threading2\bin\Debug\net8.0\Threading2.dll
+D:\Trainings\ActsJan25\Day7\Threading2\bin\Debug\net8.0\Threading2.pdb
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.dll
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\refint\Threading2.dll
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.pdb
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\Threading2.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day7\Threading2\obj\Debug\net8.0\ref\Threading2.dll

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\cachingexample-20241211t025922z-001\\cachingexample\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\cachingexample-20241211t025922z-001\\cachingexample\\views\\default\\displaycacheentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|solutionrelative:views\\default\\displaycacheentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\cachingexample-20241211t025922z-001\\cachingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\cachingexample-20241211t025922z-001\\cachingexample\\views\\default\\createcacheentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DB7D5C5-4E77-40EC-840C-FE1A6408C1C1}|CachingExample.csproj|solutionrelative:views\\default\\createcacheentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayCacheEntry.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Views\\Default\\DisplayCacheEntry.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\DisplayCacheEntry.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Views\\Default\\DisplayCacheEntry.cshtml",
+              "RelativeToolTip": "Views\\Default\\DisplayCacheEntry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T03:00:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:18:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Controllers\\DefaultController.cs*",
+              "RelativeToolTip": "Controllers\\DefaultController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:04:28.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCacheEntry.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Views\\Default\\CreateCacheEntry.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\CreateCacheEntry.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\CachingExample-20241211T025922Z-001\\CachingExample\\Views\\Default\\CreateCacheEntry.cshtml",
+              "RelativeToolTip": "Views\\Default\\CreateCacheEntry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T11:04:28.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

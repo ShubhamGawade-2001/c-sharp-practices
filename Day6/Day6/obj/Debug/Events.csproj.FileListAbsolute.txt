@@ -1,0 +1,7 @@
+F:\DOT NET\Day6\Day6\bin\Debug\Day6.exe.config
+F:\DOT NET\Day6\Day6\bin\Debug\Day6.exe
+F:\DOT NET\Day6\Day6\bin\Debug\Day6.pdb
+F:\DOT NET\Day6\Day6\obj\Debug\Events.csproj.AssemblyReference.cache
+F:\DOT NET\Day6\Day6\obj\Debug\Events.csproj.CoreCompileInputs.cache
+F:\DOT NET\Day6\Day6\obj\Debug\Day6.exe
+F:\DOT NET\Day6\Day6\obj\Debug\Day6.pdb

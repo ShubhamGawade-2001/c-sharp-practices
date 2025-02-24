@@ -1,0 +1,10 @@
+F:\DOT NET\Day8\FileWindowsFormsApp\bin\Debug\FileWindowsFormsApp.exe.config
+F:\DOT NET\Day8\FileWindowsFormsApp\bin\Debug\FileWindowsFormsApp.exe
+F:\DOT NET\Day8\FileWindowsFormsApp\bin\Debug\FileWindowsFormsApp.pdb
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.csproj.AssemblyReference.cache
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.Form1.resources
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.Properties.Resources.resources
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.csproj.GenerateResource.cache
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.exe
+F:\DOT NET\Day8\FileWindowsFormsApp\obj\Debug\FileWindowsFormsApp.pdb

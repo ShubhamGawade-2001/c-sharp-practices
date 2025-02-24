@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\bin\Debug\net8.0\LanguageFeatures.exe
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\bin\Debug\net8.0\LanguageFeatures.deps.json
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\bin\Debug\net8.0\LanguageFeatures.runtimeconfig.json
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\bin\Debug\net8.0\LanguageFeatures.dll
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\bin\Debug\net8.0\LanguageFeatures.pdb
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.dll
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\refint\LanguageFeatures.dll
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.pdb
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\LanguageFeatures.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day5\LanguageFeatures\obj\Debug\net8.0\ref\LanguageFeatures.dll

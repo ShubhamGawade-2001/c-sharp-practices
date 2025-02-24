@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day4\Lambdas\bin\Debug\net8.0\Lambdas.exe
+D:\Trainings\ActsJan25\Day4\Lambdas\bin\Debug\net8.0\Lambdas.deps.json
+D:\Trainings\ActsJan25\Day4\Lambdas\bin\Debug\net8.0\Lambdas.runtimeconfig.json
+D:\Trainings\ActsJan25\Day4\Lambdas\bin\Debug\net8.0\Lambdas.dll
+D:\Trainings\ActsJan25\Day4\Lambdas\bin\Debug\net8.0\Lambdas.pdb
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.dll
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\refint\Lambdas.dll
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.pdb
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\Lambdas.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day4\Lambdas\obj\Debug\net8.0\ref\Lambdas.dll

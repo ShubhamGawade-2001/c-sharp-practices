@@ -1,0 +1,14 @@
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\bin\Debug\net8.0\FilesCoreExample.exe
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\bin\Debug\net8.0\FilesCoreExample.deps.json
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\bin\Debug\net8.0\FilesCoreExample.runtimeconfig.json
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\bin\Debug\net8.0\FilesCoreExample.dll
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\bin\Debug\net8.0\FilesCoreExample.pdb
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.AssemblyInfoInputs.cache
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.AssemblyInfo.cs
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.csproj.CoreCompileInputs.cache
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.dll
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\refint\FilesCoreExample.dll
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.pdb
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\FilesCoreExample.genruntimeconfig.cache
+D:\Trainings\ActsJan25\Day7\FilesCoreExample\obj\Debug\net8.0\ref\FilesCoreExample.dll

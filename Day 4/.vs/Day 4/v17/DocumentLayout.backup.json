@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DOT NET\\Day 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2EE98B-EB4B-4189-AA1F-2A4003EF8D37}|WindowsFormsAppDemo\\WindowsFormsAppDemo.csproj|f:\\dot net\\day 4\\windowsformsappdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD2EE98B-EB4B-4189-AA1F-2A4003EF8D37}|WindowsFormsAppDemo\\WindowsFormsAppDemo.csproj|solutionrelative:windowsformsappdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2EE98B-EB4B-4189-AA1F-2A4003EF8D37}|WindowsFormsAppDemo\\WindowsFormsAppDemo.csproj|f:\\dot net\\day 4\\windowsformsappdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2EE98B-EB4B-4189-AA1F-2A4003EF8D37}|WindowsFormsAppDemo\\WindowsFormsAppDemo.csproj|solutionrelative:windowsformsappdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DF25FE-C747-4D28-B15B-CB5AAF2866D6}|AnnonymousFunction\\AnnonymousFunction.csproj|f:\\dot net\\day 4\\annonymousfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DF25FE-C747-4D28-B15B-CB5AAF2866D6}|AnnonymousFunction\\AnnonymousFunction.csproj|solutionrelative:annonymousfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE98132-2B74-4AD0-A30A-CDA1C3A96423}|InbuiltDelegates\\InbuiltDelegates.csproj|f:\\dot net\\day 4\\inbuiltdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE98132-2B74-4AD0-A30A-CDA1C3A96423}|InbuiltDelegates\\InbuiltDelegates.csproj|solutionrelative:inbuiltdelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29436D-6822-42F1-898E-5B5A1A2B247A}|Delegates\\Delegates.csproj|f:\\dot net\\day 4\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B29436D-6822-42F1-898E-5B5A1A2B247A}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DOT NET\\Day 4\\WindowsFormsAppDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppDemo\\Form1.cs",
+              "ToolTip": "F:\\DOT NET\\Day 4\\WindowsFormsAppDemo\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAppDemo\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:48:15.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\DOT NET\\Day 4\\WindowsFormsAppDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppDemo\\Form1.cs",
+              "ToolTip": "F:\\DOT NET\\Day 4\\WindowsFormsAppDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:47:21.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DOT NET\\Day 4\\AnnonymousFunction\\Program.cs",
+              "RelativeDocumentMoniker": "AnnonymousFunction\\Program.cs",
+              "ToolTip": "F:\\DOT NET\\Day 4\\AnnonymousFunction\\Program.cs",
+              "RelativeToolTip": "AnnonymousFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:40:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DOT NET\\Day 4\\InbuiltDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "InbuiltDelegates\\Program.cs",
+              "ToolTip": "F:\\DOT NET\\Day 4\\InbuiltDelegates\\Program.cs",
+              "RelativeToolTip": "InbuiltDelegates\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:14:37.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DOT NET\\Day 4\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "F:\\DOT NET\\Day 4\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:11:46.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
